@@ -1,0 +1,2 @@
+# files to specify wich file git should ignore
+/node_modules
